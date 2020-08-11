@@ -1,4 +1,4 @@
-# Terraform Demo
+# Terraform Docs
 
 This is a docker image that generates the documentation for your Terraform modules in the current working directory.
 
